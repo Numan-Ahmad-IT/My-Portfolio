@@ -12,6 +12,7 @@ const Certifications = () => {
 
   const handleCloseModal = () => {
     setModalOpen(false);
+
   };
 
   return (
@@ -29,8 +30,9 @@ const Certifications = () => {
         <div className="w-full flex flex-wrap">
           
           <div className="w-1/2 p-2">
+
             <Image
-              className="w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
+              className=" w-full h-auto transition-transform duration-300 transform hover:scale-110 cursor-pointer"
               src="/certificates/aws-certified-cloud-practitioner.png"
               width={150}
               height={200}
