@@ -15,7 +15,7 @@ export default function Home() {
             property="og:description"
             content=""
           />
-          <meta property="og:image" content="/images/Faraz.jpeg" />
+          <meta property="og:image" content="/public/images/Faraz.jpeg" />
           <meta property="og:image:type" content="image/jpeg" />
           <meta property="og:image:alt" content="Summary Image" />
           <meta property="og:title" content="Faraz Gul" />
