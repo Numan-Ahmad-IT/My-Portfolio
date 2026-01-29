@@ -23,12 +23,12 @@ const Header = () => {
             </ScrollLink>
           </h1>
           <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-            Nationality: German 
+            German 
           </h2>
-          <li> Phone: (+49) 1607710696 (Mobile) </li>
-          <li>Email address: farazgulofficial@gmail.com</li>
+          <li>(+49) 1607710696 (Mobile) </li>
+          <li>farazgulofficial@gmail.com</li>
        
-             <li> Address: Germany (Home) </li>
+             <li>Germany (Home) </li>
           
 
           <div className="mt-4 max-w-xs flex gap-4">
