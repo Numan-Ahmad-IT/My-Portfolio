@@ -1,4 +1,5 @@
-import Link from "next/link";
+{/*
+  import Link from "next/link";
 
 const Archive = () => {
   return (
@@ -22,7 +23,7 @@ const Archive = () => {
                 clipRule="evenodd"
               ></path>
             </svg>
-            Faraz Gul
+            Ruturaj Marathe
           </Link>
           <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
             All Projects
@@ -699,3 +700,4 @@ const Archive = () => {
 };
 
 export default Archive;
+*/}

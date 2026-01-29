@@ -46,8 +46,8 @@ const Header = () => {
                 fill="none"
                 stroke="currentColor"
                 strokeWidth="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
+                strokeLinecap="round"
+                strokeLinejoin="round"
                 className="lucide lucide-download mr-2 h-4 w-4"
               >
                 <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
